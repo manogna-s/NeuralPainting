@@ -1,7 +1,12 @@
 # Neural Image Painting
 
 
-![Paint Transformer](results/Screenshot 2021-09-25 at 7.03.22 PM.png)
+![Paint Transformer](results/block_diag.png)
 
-![](results/joker_pt.gif)
+### Paint Transformer with rectangular oilpaint brush strokes
+
+![](results/joker_pt.gif) 
+
+### Paint Transformer with Bezier Stroke renderer
+![](results/out.gif)
 
